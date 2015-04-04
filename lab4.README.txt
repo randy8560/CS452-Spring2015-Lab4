@@ -1,1 +1,5 @@
-name, date, description
+Randy Parisi
+
+Keys
+----
+Arrow keys to rotate and numpad 0 to toggle rotation
